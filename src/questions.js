@@ -50,7 +50,7 @@ module.exports = {
             ]
         },
         {
-            "Which is Singapore's biggest local company?": [
+            "Which is Singapore's biggest local company that isn't a bank?": [
                 "Singapore Airlines",
                 "Creative Technologies",
                 "Razer Inc",
